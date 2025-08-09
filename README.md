@@ -20,13 +20,13 @@ Create a free account at CoinMarketCap Developer Portal.
 Navigate to API Key in your dashboard.
 Copy your key for later use.
 
+```bash
 ⚙️ Installation
 1. Clone the repository
 git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPO>.git
 cd <YOUR_REPO>
 
 2. Create a virtual environment
-```bash
 python -m venv .venv
 # Activate on Windows
 .venv\Scripts\activate

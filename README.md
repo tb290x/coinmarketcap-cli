@@ -26,11 +26,10 @@ git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPO>.git
 cd <YOUR_REPO>
 
 2. Create a virtual environment
+```bash
 python -m venv .venv
 # Activate on Windows
 .venv\Scripts\activate
-# Activate on macOS/Linux
-source .venv/bin/activate
 
 3. Install dependencies
 pip install -r requirements.txt

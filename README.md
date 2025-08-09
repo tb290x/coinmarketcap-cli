@@ -1,24 +1,27 @@
 *CoinMarketCap Gainers & Losers CLI*
-A lightweight Python command-line tool that fetches and displays the top cryptocurrency gainers or losers over the last 24 hours using the CoinMarketCap API.
 
-This tool is ideal for traders, analysts, or enthusiasts who want quick market insights directly from their terminal.
+- A lightweight Python command-line tool that fetches and displays the top cryptocurrency gainers or losers over the last 24 hours using the CoinMarketCap API.
+
+- This tool is ideal for traders, analysts, or enthusiasts who want quick market insights directly from their terminal.
 
 *Features*
-Fetches real-time cryptocurrency data from CoinMarketCap.
-Displays top gainers or top losers for the last 24 hours.
-Customizable number of results.
-Supports API key from environment variables or direct CLI input.
-Clean, tabular output format for easy reading.
+
+- Fetches real-time cryptocurrency data from CoinMarketCap.
+- Displays top gainers or top losers for the last 24 hours.
+- Customizable number of results.
+- Supports API key from environment variables or direct CLI input.
+- Clean, tabular output format for easy reading.
 
 *Requirements*
-Python 3.8+
-CoinMarketCap API key (free tier works with this endpoint)
-requests Python library
+
+- Python 3.8+
+- CoinMarketCap API key (free tier works with this endpoint)
+- requests Python library
 
 *Getting an API Key*
-Create a free account at CoinMarketCap Developer Portal.
-Navigate to API Key in your dashboard.
-Copy your key for later use.
+- Create a free account at CoinMarketCap Developer Portal.
+- Navigate to API Key in your dashboard.
+- Copy your key for later use.
 
 ```bash
 ⚙️ Installation
